@@ -1,0 +1,14 @@
+{
+    "popup": {
+        "enabled": false,
+        "duration": 10,
+        "imageUrl": "https://raw.githubusercontent.com/KULLANICI_ADINIZ/CMR-Config/main/popup.jpg",
+        "linkUrl": "https://www.google.com"
+    },
+    "features": {
+        "shopEnabled": true,
+        "customDataEnabled": true
+    },
+    "version": "1.0.0",
+    "lastUpdated": "2025-12-15T22:30:00Z"
+}
