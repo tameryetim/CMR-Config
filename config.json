@@ -1,7 +1,7 @@
 {
     "popup": {
         "enabled": true,
-        "duration": 60,
+        "duration": 10,
         "imageUrl": "https://raw.githubusercontent.com/tameryetim/CMR-Config/main/popup.jpg",
         "linkUrl": "https://www.google.com"
     },
