@@ -1,6 +1,6 @@
 {
     "popup": {
-        "enabled": true,
+        "enabled": false,
         "duration": 20,
         "imageUrl": "https://raw.githubusercontent.com/tameryetim/CMR-Config/main/popup.jpg",
         "linkUrl": "https://www.google.com"
@@ -10,7 +10,7 @@
         "customDataEnabled": true
     },
     "forceUpdate": {
-        "enabled": false,
+        "enabled": true,
         "minVersion": "1.0.0",
         "downloadUrl": "https://github.com/tameryetim/YeniOyun/releases/latest",
         "message": "Uygulamanın yeni bir versiyonu yayınlandı! Devam etmek için lütfen güncelleyin."
