@@ -1,8 +1,8 @@
 {
     "popup": {
-        "enabled": false,
+        "enabled": true,
         "duration": 10,
-        "imageUrl": "https://raw.githubusercontent.com/KULLANICI_ADINIZ/CMR-Config/main/popup.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/tameryetim/CMR-Config/main/popup.jpg",
         "linkUrl": "https://www.google.com"
     },
     "features": {
