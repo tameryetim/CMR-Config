@@ -9,12 +9,12 @@
         "shopEnabled": true,
         "customDataEnabled": true
     },
-    "forceUpdate": {
-        "enabled": true,
-        "minVersion": "1.0.0",
-        "downloadUrl": "https://github.com/tameryetim/YeniOyun/releases/latest",
+ "forceUpdate": {
+    "enabled": true,
+    "minVersion": "1.0.0",
+    "downloadUrl": "https://github.com/tameryetim/YeniOyun/releases/latest",
     "message": "NEW GAME AVAILABLE NOW"
-    },
+  },
     "version": "1.0.0",
     "lastUpdated": "2025-12-15T22:30:00Z"
 }
