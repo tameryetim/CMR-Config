@@ -6,8 +6,8 @@
         "linkUrl": "https://www.google.com"
     },
     "features": {
-        "shopEnabled": false,
-        "customDataEnabled":false
+        "shopEnabled": true,
+        "customDataEnabled":true
     },
  "forceUpdate": {
     "enabled": false,
