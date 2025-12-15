@@ -10,7 +10,7 @@
         "customDataEnabled": true
     },
  "forceUpdate": {
-    "enabled": true,
+    "enabled": false,
     "minVersion": "1.0.0",
     "downloadUrl": "https://github.com/tameryetim/YeniOyun/releases/latest",
     "message": "NEW GAME AVAILABLE NOW"
