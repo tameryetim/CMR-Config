@@ -7,7 +7,7 @@
     },
     "features": {
         "shopEnabled": false,
-        "customDataEnabled": true
+        "customDataEnabled":false
     },
  "forceUpdate": {
     "enabled": false,
