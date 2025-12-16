@@ -9,6 +9,9 @@
         "shopEnabled": true,
         "customDataEnabled":true
     },
+     "ads": {
+        "enabled": false
+    },
  "forceUpdate": {
     "enabled": false,
     "minVersion": "1.0.0",
