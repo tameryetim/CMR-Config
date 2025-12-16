@@ -10,7 +10,7 @@
         "customDataEnabled":true
     },
      "ads": {
-        "enabled": false
+        "enabled": true
     },
  "forceUpdate": {
     "enabled": false,
