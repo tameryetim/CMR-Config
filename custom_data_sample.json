@@ -1,0 +1,186 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "author": "CMR Data Team",
+    "lastUpdated": "2024-12-01T00:00:00.000Z",
+    "description": "Sample pack with two leagues to demonstrate remote loading."
+  },
+  "leagues": [
+    {
+      "id": "retro-super-league",
+      "name": "Retro Super League",
+      "country": "Turkey",
+      "teams": [
+        {
+          "id": "retro-lions",
+          "name": "Retro Lions",
+          "leagueId": "retro-super-league",
+          "reputation": 85,
+          "budget": 18000000,
+          "transferBudget": 6000000,
+          "wageBudget": 9000000,
+          "players": [
+            {
+              "id": "retro-gk-1",
+              "name": "Selim Akın",
+              "age": 29,
+              "position": "GK",
+              "teamId": "retro-lions",
+              "nationality": "TURKEY",
+              "value": 4500000,
+              "salary": 350000,
+              "reputation": 70,
+              "stats": {
+                "reflexes": 17,
+                "handling": 16,
+                "oneOnOne": 15,
+                "commandOfArea": 14,
+                "kicking": 13,
+                "positioning": 15,
+                "composure": 15,
+                "communication": 14,
+                "passing": 10,
+                "stamina": 9,
+                "acceleration": 8,
+                "strength": 13
+              }
+            },
+            {
+              "id": "retro-st-9",
+              "name": "Mert Özden",
+              "age": 26,
+              "position": "ST",
+              "teamId": "retro-lions",
+              "nationality": "TURKEY",
+              "value": 9000000,
+              "salary": 750000,
+              "reputation": 78,
+              "stats": {
+                "technical": 16,
+                "finishing": 18,
+                "heading": 15,
+                "strength": 14,
+                "stamina": 15,
+                "speed": 17,
+                "acceleration": 17,
+                "dribbling": 15,
+                "shotPower": 16,
+                "positioning": 17,
+                "anticipation": 16,
+                "aggression": 14,
+                "teamwork": 13,
+                "workRate": 15,
+                "composure": 14
+              }
+            }
+          ]
+        },
+        {
+          "id": "anadolu-stars",
+          "name": "Anadolu Stars",
+          "leagueId": "retro-super-league",
+          "reputation": 72,
+          "budget": 9000000,
+          "transferBudget": 3000000,
+          "wageBudget": 5000000,
+          "players": [
+            {
+              "id": "stars-am-10",
+              "name": "Deniz Arman",
+              "age": 24,
+              "position": "AM",
+              "teamId": "anadolu-stars",
+              "nationality": "TURKEY",
+              "value": 6000000,
+              "salary": 420000,
+              "reputation": 68,
+              "stats": {
+                "technical": 17,
+                "passing": 17,
+                "creativity": 16,
+                "dribbling": 15,
+                "vision": 16,
+                "stamina": 13,
+                "speed": 13,
+                "finishing": 12,
+                "shotPower": 13,
+                "anticipation": 14,
+                "teamwork": 15,
+                "workRate": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legends-cup",
+      "name": "Legends Cup",
+      "country": "England",
+      "teams": [
+        {
+          "id": "london-legacy",
+          "name": "London Legacy",
+          "leagueId": "legends-cup",
+          "reputation": 88,
+          "budget": 25000000,
+          "transferBudget": 12000000,
+          "wageBudget": 15000000,
+          "players": [
+            {
+              "id": "legacy-gk-1",
+              "name": "Ben Thompson",
+              "age": 30,
+              "position": "GK",
+              "teamId": "london-legacy",
+              "nationality": "ENGLAND",
+              "value": 6500000,
+              "salary": 900000,
+              "reputation": 80,
+              "stats": {
+                "reflexes": 18,
+                "handling": 17,
+                "oneOnOne": 16,
+                "commandOfArea": 16,
+                "positioning": 17,
+                "composure": 16,
+                "communication": 15,
+                "kicking": 13,
+                "passing": 12,
+                "stamina": 10,
+                "strength": 14
+              }
+            },
+            {
+              "id": "legacy-st-9",
+              "name": "Liam Brooks",
+              "age": 27,
+              "position": "ST",
+              "teamId": "london-legacy",
+              "nationality": "ENGLAND",
+              "value": 15000000,
+              "salary": 1200000,
+              "reputation": 85,
+              "stats": {
+                "technical": 18,
+                "finishing": 19,
+                "heading": 16,
+                "strength": 16,
+                "stamina": 17,
+                "speed": 18,
+                "acceleration": 18,
+                "dribbling": 17,
+                "shotPower": 18,
+                "positioning": 18,
+                "anticipation": 17,
+                "workRate": 16,
+                "teamwork": 14,
+                "composure": 17
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
