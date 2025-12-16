@@ -16,6 +16,8 @@
     "enabled": false,
     "minVersion": "1.0.0",
     "downloadUrl": "https://github.com/tameryetim/YeniOyun/releases/latest",
+     "downloadUrlIos": "https://github.com/tameryetim/YeniOyun/releases/latest",
+"downloadUrlAndroid": "https://github.com/tameryetim/YeniOyun/releases/latest",
     "message": "NEW GAME AVAILABLE NOW"
   },
     "version": "1.0.0",
