@@ -7,7 +7,7 @@
     },
     "features": {
         "shopEnabled": true,
-        "customDataEnabled":true
+        "customDataEnabled":false
     },
      "ads": {
         "enabled": false
